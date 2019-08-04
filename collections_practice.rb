@@ -27,5 +27,6 @@ def kesha_maker(array)
     word.join
     new_array.push(word)
   end
+  return new_array
 end
     
