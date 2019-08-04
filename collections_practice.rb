@@ -8,3 +8,5 @@ end
 
 def sort_array_char_count(array)
   array.sort_by {|string| string.length}
+end
+
